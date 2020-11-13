@@ -1,0 +1,32 @@
+@media(max-width: 1399px)
+{
+	.banner5 .st {
+	    padding: 80px 50px;
+	}
+}
+@media(max-width: 1199px)
+{
+	.banner5 .st {
+	    padding: 80px 20px;
+	}
+}
+@media(max-width: 991px)
+{
+	.discount{
+	    margin-top: 80px;
+	}
+	.banner5 .st {
+    	padding: 80px 100px;
+    }
+}
+@media(max-width: 767px)
+{
+	.banner5 .st {
+    	padding: 80px 50px;
+    }
+    iframe{
+    	width: 90% !important;
+    	height: 200px !important;
+
+    }
+}
