@@ -3,17 +3,27 @@
 	.banner5 .st {
 	    padding: 80px 50px;
 	}
+    iframe{
+    	width: 700px !important;
+    	height: 400px !important;
+
+    }
 }
 @media(max-width: 1199px)
 {
 	.banner5 .st {
 	    padding: 80px 20px;
 	}
+    iframe{
+    	width: 600px !important;
+    	height: 350px !important;
+
+    }
 }
 @media(max-width: 991px)
 {
 	.discount{
-	    margin-top: 80px;
+	    margin-top: 83px;
 	}
 	.banner5 .st {
     	padding: 80px 100px;
@@ -26,7 +36,7 @@
     }
     iframe{
     	width: 90% !important;
-    	height: 200px !important;
+    	height: 250px !important;
 
     }
 }

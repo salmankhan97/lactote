@@ -48,7 +48,7 @@ nav li a:hover{
 	color: #B56251 !important;
 }
 .discount{
-    margin-top: 75px;
+    margin-top: 78px;
     padding: 5px 0px;
     font-weight: 700;
     color: #BCAA78;
@@ -103,8 +103,8 @@ nav li a:hover{
     color: #FFF;
 }
 .banner3 iframe{
-	width: 560px;
-	height: 315px;
+	width: 800px;
+	height: 500px;
 }
 .banner3 button, .banner7 button{
 	background: #FFF !important;
